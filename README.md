@@ -1,5 +1,5 @@
 <h2>Hello everyone.</h2>
-<h2>This is an example for using stimulsoft in laravel(8.*).</h2>
+<h2>This is an example for using stimulsoft in laravel(>8.0.0).</h2>
 
 <h1>For run :</h1>
 <h2>1- clone this repository and run "composer install" in project directory</h2>
