@@ -1,0 +1,22 @@
+[
+    {
+        "country" : "USA",
+        "countryCode" : "+1"
+    },
+    {
+        "country" : "France",
+        "countryCode" : "+33"
+    },
+    {
+        "country" : "Spain",
+        "countryCode" : "+34"
+    },
+    {
+        "country" : "Italy",
+        "countryCode" : "+39"
+    },
+    {
+        "country" : "Brazil",
+        "countryCode" : "+55"
+    }
+]
